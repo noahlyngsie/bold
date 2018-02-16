@@ -1,0 +1,43 @@
+/* CSS Document */
+
+/*
+Theme name: Twenty Seventeen Child
+Version: 1.0
+Template: twentyseventeen
+
+
+*/
+@import url('../twentyseventeen/style.css');
+
+
+.site-content-contain {
+	
+	background-color: blue;
+}
+
+.site-content-contain {
+	
+	background-color: #3366FF;
+	color: white;
+}
+
+
+body.has-header-image .site-title,
+body.has-header-video .site-title,
+body.has-header-image .site-title a,
+body.has-header-video .site-title a 
+{
+	color:white;
+	font-size: 2em;
+}
+h1
+{
+	
+	color: aqua;
+}
+
+
+.content{
+	
+	background-color:#000000;
+}
